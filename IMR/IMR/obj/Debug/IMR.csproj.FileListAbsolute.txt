@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\bin\Debug\IMR.exe.config
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\bin\Debug\IMR.exe
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\bin\Debug\IMR.pdb
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.Form1.resources
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.exe
+C:\Users\Polaco\Desktop\Programas C#\IMR\IMR\obj\Debug\IMR.pdb

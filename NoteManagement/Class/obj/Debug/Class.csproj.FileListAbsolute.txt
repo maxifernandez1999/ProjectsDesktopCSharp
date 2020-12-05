@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Class\bin\Debug\Class.dll
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Class\bin\Debug\Class.pdb
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Class\obj\Debug\Class.dll
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Class\obj\Debug\Class.pdb

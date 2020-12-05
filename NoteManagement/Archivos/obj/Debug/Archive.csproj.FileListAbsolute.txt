@@ -1,0 +1,11 @@
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\bin\Debug\Archivos.dll
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\bin\Debug\Amba.SpreadsheetLight.dll
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\bin\Debug\Amba.SpreadsheetLight.xml
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\obj\Debug\Archive.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\obj\Debug\Archive.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\obj\Debug\Archive.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\obj\Debug\Archivos.dll
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\bin\Debug\Class.dll
+C:\Users\Polaco\Desktop\Programas C#\NoteManagement\Archivos\bin\Debug\Class.pdb
